@@ -213,7 +213,7 @@ six==1.16.0
     #   sampledata
     #   serpy
     #   webcolors
-sqlparse==0.4.2
+sqlparse==0.4.4
     # via django
 tifffile==2021.11.2
     # via scikit-image
