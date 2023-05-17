@@ -156,7 +156,7 @@ pygments==2.11.2
     # via -r requirements.in
 pyjwt==2.3.0
     # via oauthlib
-pymdown-extensions==8.1.1
+pymdown-extensions==10.0
     # via -r requirements.in
 pyparsing==3.0.6
     # via packaging
