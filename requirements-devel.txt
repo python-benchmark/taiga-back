@@ -71,7 +71,7 @@ python-dateutil==2.7.5
     #   faker
 python-jose==3.3.0
     # via -r requirements-devel.in
-requests==2.27.1
+requests==2.31.0
     # via
     #   -c requirements.txt
     #   coveralls
