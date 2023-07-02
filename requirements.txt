@@ -152,7 +152,7 @@ psycopg2==2.8.6
     # via -r requirements.in
 pycparser==2.21
     # via cffi
-pygments==2.11.2
+pygments==2.15.0
     # via -r requirements.in
 pyjwt==2.3.0
     # via oauthlib
