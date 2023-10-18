@@ -91,7 +91,7 @@ typing-extensions==4.0.1
     #   -c requirements.txt
     #   faker
     #   importlib-metadata
-urllib3==1.26.8
+urllib3==1.26.18
     # via
     #   -c requirements.txt
     #   requests
