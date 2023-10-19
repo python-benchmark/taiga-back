@@ -225,7 +225,7 @@ typing-extensions==4.0.1
     # via importlib-metadata
 unidecode==0.4.20
     # via -r requirements.in
-urllib3==1.26.8
+urllib3==1.26.18
     # via requests
 vine==5.0.0
     # via
