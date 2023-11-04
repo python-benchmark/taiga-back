@@ -58,7 +58,7 @@ defusedxml==0.7.1
     # via cairosvg
 diff-match-patch==20121119
     # via -r requirements.in
-django==2.2.26
+django==3.2.23
     # via
     #   -r requirements.in
     #   django-jinja
@@ -134,7 +134,7 @@ packaging==21.3
     # via
     #   bleach
     #   scikit-image
-pillow==9.0.0
+pillow==10.0.0
     # via
     #   -r requirements.in
     #   cairosvg
