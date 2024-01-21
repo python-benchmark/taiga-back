@@ -134,7 +134,7 @@ packaging==21.3
     # via
     #   bleach
     #   scikit-image
-pillow==9.0.0
+pillow==10.2.0
     # via
     #   -r requirements.in
     #   cairosvg
