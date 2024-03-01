@@ -4,7 +4,7 @@
 #
 # Copyright (c) 2021-present Kaleidos Ventures SL
 
-FROM python:3.7-slim
+FROM python:3.13.0a4-slim
 LABEL maintainer="support@taiga.io"
 
 # Avoid prompting for configuration
