@@ -8,7 +8,7 @@ attrs==21.4.0
     # via
     #   -c requirements.txt
     #   pytest
-certifi==2021.10.8
+certifi==2023.7.22
     # via
     #   -c requirements.txt
     #   requests
@@ -71,7 +71,7 @@ python-dateutil==2.7.5
     #   faker
 python-jose==3.3.0
     # via -r requirements-devel.in
-requests==2.27.1
+requests==2.31.0
     # via
     #   -c requirements.txt
     #   coveralls
@@ -91,7 +91,7 @@ typing-extensions==4.0.1
     #   -c requirements.txt
     #   faker
     #   importlib-metadata
-urllib3==1.26.8
+urllib3==1.26.18
     # via
     #   -c requirements.txt
     #   requests
