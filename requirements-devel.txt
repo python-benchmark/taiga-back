@@ -69,7 +69,7 @@ python-dateutil==2.7.5
     # via
     #   -c requirements.txt
     #   faker
-python-jose==3.3.0
+python-jose==3.4.0
     # via -r requirements-devel.in
 requests==2.27.1
     # via
