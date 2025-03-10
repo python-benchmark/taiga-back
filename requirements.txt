@@ -58,7 +58,7 @@ defusedxml==0.7.1
     # via cairosvg
 diff-match-patch==20121119
     # via -r requirements.in
-django==2.2.26
+django==4.2.20
     # via
     #   -r requirements.in
     #   django-jinja
@@ -100,7 +100,7 @@ importlib-metadata==4.10.0
     #   cssutils
     #   kombu
     #   markdown
-jinja2==3.0.3
+jinja2==3.1.6
     # via django-jinja
 kombu==5.2.3
     # via celery
