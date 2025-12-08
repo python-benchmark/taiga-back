@@ -58,7 +58,7 @@ defusedxml==0.7.1
     # via cairosvg
 diff-match-patch==20121119
     # via -r requirements.in
-django==2.2.26
+django==4.2.27
     # via
     #   -r requirements.in
     #   django-jinja
@@ -213,7 +213,7 @@ six==1.16.0
     #   sampledata
     #   serpy
     #   webcolors
-sqlparse==0.4.2
+sqlparse==0.5.4
     # via django
 tifffile==2021.11.2
     # via scikit-image
@@ -225,7 +225,7 @@ typing-extensions==4.0.1
     # via importlib-metadata
 unidecode==0.4.20
     # via -r requirements.in
-urllib3==1.26.8
+urllib3==2.6.0
     # via requests
 vine==5.0.0
     # via
